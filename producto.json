@@ -1,0 +1,54 @@
+[
+    {
+        "id": 1,
+        "Nombre": "American IPA",
+        "precio": 170,
+        "descripcion": "Cerveza artesanal rubia",
+        "imagen": "img/americanIPA.jpg",
+        "tipo": "bebida"
+    },
+
+    {
+        "id": 2,
+        "Nombre": "English IPA",
+        "precio": 165,
+        "imagen": "img/englishIPA.jpg",
+        "descripcion": "Cerveza artesanal",
+        "tipo": "bebida"
+    },
+
+    {
+        "id": 3,
+        "Nombre": "Hamburguesa triple",
+        "precio": 250,
+        "imagen": "img/hamburguesaTriple.jpg",
+        "descripcion": "3 Hamburguesas con queso chedar",
+        "tipo": "comida"
+    },
+
+    {
+        "id": 4,
+        "Nombre": "Chivito al pan",
+        "precio": 350,
+        "imagen": "img/chivito.jpg",
+        "descripcion": "Chivito completo con condimientos a elección",
+        "tipo": "comida"
+    },
+
+    {
+        "id": 5,
+        "Nombre": "Fritas",
+        "precio": 150,
+        "descripcion": "Porción de papas fritas",
+        "tipo": "comida"
+    },
+
+    {
+        "id": 6,
+        "Nombre": "Coca cola 1Lt",
+        "precio": 72,
+        "descripcion": "Coca cola en envase de vidrio",
+        "tipo": "bebida"
+    }
+
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "ci": 45874569,
+        "nombre": "Jorge Garolfo",
+        "telefono": "099123654",
+        "direccion": "Calle Falsa 1234",
+        "socio": true
+    },
+
+    {
+        "ci": 24563210,
+        "nombre": "Carlos Garofalo",
+        "telefono": "098789321",
+        "direccion": "Uruguay 433",
+        "socio": false
+    },
+
+    {
+        "ci": 54682098,
+        "nombre": "Susana Horia",
+        "telefono": "099054987",
+        "direccion": "Buenos Aires 159",
+        "socio": true
+    },
+
+    {
+        "ci": 23654512,
+        "nombre": "Olivia García",
+        "telefono": "098159753",
+        "direccion": "Paysandú 544",
+        "socio": false
+    },
+
+    {
+        "ci": 43814550,
+        "nombre": "Fernanda Rodríguez",
+        "telefono": "099455100",
+        "direccion": "19 de abril 788",
+        "socio": true
+    }
+    
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "numero": 1,
+        "libre": true,
+        "fecha": "10/09/2021",
+        "hora": "20:00",
+        "ocupantes": 2,
+        "duración": "2"
+    },
+
+    {
+        "numero": 2,
+        "libre": true,
+        "fecha": "25/08/2021",
+        "hora": "22:30",
+        "ocupantes": 4,
+        "duración": "3"
+    },
+
+    {
+        "numero": 3,
+        "libre": false,
+        "fecha": "25/08/2021",
+        "hora": "22:30",
+        "ocupantes": 2,
+        "duración": "3"
+    }
+
+
+]
